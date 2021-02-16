@@ -3,14 +3,14 @@
 </h1>
 
 <p align="center">
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alicepsz98/netflix-clone_TMDb-API?logo=javascript">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/alicepsz98/netflix_TMDb-API?logo=javascript">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/alicepsz98/netflix-clone_TMDb-API?color=orange">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/alicepsz98/netflix_TMDb-API?color=orange">
 
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/alicepsz98/netflix-clone_TMDb-API">
+  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/alicepsz98/netflix_TMDb-API">
 </p>
 
-![Netflix - Clone](https://github.com/alicepsz98/netflix-clone_TMDb-API/blob/main/Netflix-mockup.png)
+![Netflix - Clone](https://github.com/alicepsz98/netflix_TMDb-API/blob/master/Netflix-mockup.png)
 
 ---
 
