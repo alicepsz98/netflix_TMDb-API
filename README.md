@@ -13,7 +13,7 @@
 ## 📝 Sobre o Projeto
 
 O propósito deste projeto foi colocar em prática os principais conceitos de React, como o uso de bibliotecas e Hooks.
-Além dar acesso a dados de filmes permitidos pela Netflix, através da API TMDb.
+Além de dar acesso a dados de filmes permitidos pela Netflix, através da API TMDb.
 
 ---
 
