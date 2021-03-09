@@ -79,7 +79,7 @@ In addition to providing access to movie data allowed by Netflix, through the TM
 2. Create a branch with your feature:
    - `$ git checkout -b my_feature`
 3. Confirm your branch:
-   - `$ git commit -m "feature: Meu novo recurso"`
+   - `$ git commit -m "feature: my new feature"`
 4. Send your branch:
    - `$ git push origin my_feature`
 
