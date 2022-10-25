@@ -10,82 +10,71 @@
 
 ---
 
-## 📝 About the project
+## 📝 Sobre o projeto
 
-The purpose of this project was to put into practice the main concepts of React, such as the use of libraries and hooks.
-In addition to providing access to movie data allowed by Netflix, through the TMDb API.
+O objetivo deste projeto foi colocar em prática os principais conceitos do React, como o uso de bibliotecas e hooks.
+Além de fornecer acesso aos dados de filmes permitidos pela Netflix, por meio da API TMDb.
 
 ---
 
-## 👨‍💻️ Technologies
+## 👨‍💻️ Tecnologias
 
 - React
-
-### Dependencies:
-
-- Styled Components
+- Styled-components
 - Material UI
-- Router DOM
-
-### IDE:
-
-- Visual Studio Code
-
-### Terminal:
-
-- Git Bash
+- React router dom
 
 ---
 
-## 📦️ How to use
+## 📦️ Como usar
 
-- To copy the project, use the commands:
+- Para copiar o projeto, use os comandos:
 
 ```bash
-  # Clone the repository
+  # Clone o repositório
   ❯ git clone https://github.com/alicepsz98/netflix-clone_TMDb-API.git
 
-  # Enter directory
+  # Entre no diretório
   ❯ cd netflix-clone_TMDb-API
 ```
 
-- To install the dependencies and start the project, you can use Yarn or NPM:
+- Para instalar as dependências e rodar o projeto, você pode usar Yarn ou NPM:
 
-**Using yarn**
+**Usando yarn**
 
 ```bash
-  # Install the dependencies
+  # Instale as dependências
   ❯ yarn
 
-  # Start the project
+  # Rode o projeto
   ❯ yarn dev:server
 ```
 
-**Using npm**
+**Usando npm**
 
 ```bash
-  # Install the dependencies
+  # Instale as dependências
   ❯ npm install
 
-  # Start the project
+  # Rode o projeto
   ❯ npm start
 ```
 
 ---
 
-## 🤝 Contribution
+## 🤝 Contribuição
 
-1. `fork` this repository
-2. Create a branch with your feature:
+1. `fork` neste repositório
+2. Crie uma branch com sua feature:
    - `$ git checkout -b my_feature`
-3. Confirm your branch:
+3. Faça o commit:
    - `$ git commit -m "feature: my new feature"`
-4. Send your branch:
+4. Envie as atualizações:
    - `$ git push origin my_feature`
 
 ---
 
 <h4 align="center">
-  by Alice Souza 💚
+  por Alice Souza 💚
 </h4>
 
